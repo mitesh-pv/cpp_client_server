@@ -1,0 +1,4 @@
+1 pen rk 50 10
+2 pencil kk 46 3
+3 copy abc 100 15
+4 ruler kk 98 10

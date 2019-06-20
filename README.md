@@ -1,4 +1,4 @@
-# CPP Client Server
+# CPP Client Server Inventory System
 
 
 This is a simple c++ project on 2 tier architecture of client server TCP protocol.
